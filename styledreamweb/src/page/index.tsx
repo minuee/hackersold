@@ -1,0 +1,12 @@
+export { OnBoarding } from "./OnBoarding";
+export { Starting } from "./Starting";
+export { Main } from "./Main";
+export { Profile } from "./Profile";
+export { Search } from "./Search";
+export { Contactus } from "./Contactus";
+export { PhotoReference } from "./PhotoReference";
+export { VideoReference } from "./VideoReference";
+export { ServiceList, HomeStyling } from "./Service";
+export { Reservation } from "./Reservation";
+export { Reservation2 } from "./Reservation2";
+export { ReservationComplete } from "./ReservationComplete";
